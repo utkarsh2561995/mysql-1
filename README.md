@@ -123,3 +123,4 @@ necessary to support anything else?
 * Decimal type should probably use a bigdecimal type of some sort
 * MySQL 4 types (old decimal, anything else?)
 * Test against multiple mysql versions
+Download MySQL Link https://dev.mysql.com/downloads/mysql/ The Latest Version 5.7.16 
